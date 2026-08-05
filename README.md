@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Indiguana&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Indiguana&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="170" />
 <img src="https://streak-stats.demolab.com?user=Indiguana&theme=github-dark-blue&hide_border=true&background=0d1117" height="170" />
 
 </div>
