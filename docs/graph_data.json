@@ -1,0 +1,110 @@
+{
+  "nodes": [
+    {
+      "id": "ComputerVision-Calorie-Tracker",
+      "language": "Jupyter Notebook",
+      "color": "#DA5B0B",
+      "description": "Used Computer Vision Models to detect and identify how many calories photographed food has (2022)",
+      "stars": 0,
+      "url": "https://github.com/Indiguana/ComputerVision-Calorie-Tracker",
+      "topics": [],
+      "val": 12
+    },
+    {
+      "id": "ComputerVision-Drone-Debris-Detector",
+      "language": "Python",
+      "color": "#3572A5",
+      "description": "Using YoloV3 with Darknet to detect debris on lakes and rivers. Work done in 2020.",
+      "stars": 0,
+      "url": "https://github.com/Indiguana/ComputerVision-Drone-Debris-Detector",
+      "topics": [],
+      "val": 12
+    },
+    {
+      "id": "Group5_IA-To_Do_List",
+      "language": "C#",
+      "color": "#178600",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/Indiguana/Group5_IA-To_Do_List",
+      "topics": [],
+      "val": 5.973678227077484
+    },
+    {
+      "id": "indiguana.github.io",
+      "language": "Astro",
+      "color": "#ff5a03",
+      "description": "Indi Kolluru's personal site",
+      "stars": 0,
+      "url": "https://github.com/Indiguana/indiguana.github.io",
+      "topics": [],
+      "val": 7.1990211644431135
+    },
+    {
+      "id": "kzk265Product",
+      "language": "Python",
+      "color": "#3572A5",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/Indiguana/kzk265Product",
+      "topics": [],
+      "val": 5.197181279468905
+    },
+    {
+      "id": "Macroeconomics-Models",
+      "language": "TeX",
+      "color": "#3D6117",
+      "description": "This pdf consists of all of the models and graphs that you need to know for the AP Macroeconomics exam",
+      "stars": 0,
+      "url": "https://github.com/Indiguana/Macroeconomics-Models",
+      "topics": [],
+      "val": 7.085183508052779
+    },
+    {
+      "id": "Monte-Carlo-Option-Pricing",
+      "language": "TeX",
+      "color": "#3D6117",
+      "description": "This is my first attempt at a quantative finance project. The goal is to create a programme that uses the Monte Carlo method",
+      "stars": 0,
+      "url": "https://github.com/Indiguana/Monte-Carlo-Option-Pricing",
+      "topics": [],
+      "val": 6.400616725110652
+    },
+    {
+      "id": "USACO",
+      "language": "Python",
+      "color": "#3572A5",
+      "description": "USACO problems and their solution.",
+      "stars": 0,
+      "url": "https://github.com/Indiguana/USACO",
+      "topics": [],
+      "val": 3.9030899869919438
+    }
+  ],
+  "links": [
+    {
+      "source": "ComputerVision-Drone-Debris-Detector",
+      "target": "kzk265Product",
+      "weight": 1,
+      "label": "Python"
+    },
+    {
+      "source": "ComputerVision-Drone-Debris-Detector",
+      "target": "USACO",
+      "weight": 1,
+      "label": "Python"
+    },
+    {
+      "source": "kzk265Product",
+      "target": "USACO",
+      "weight": 1,
+      "label": "Python"
+    },
+    {
+      "source": "Macroeconomics-Models",
+      "target": "Monte-Carlo-Option-Pricing",
+      "weight": 1,
+      "label": "TeX"
+    }
+  ]
+}
