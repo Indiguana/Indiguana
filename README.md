@@ -32,11 +32,11 @@
 
 ### Repo Knowledge Graph
 
-> My repositories, connected by shared languages and topics. Click the preview to explore the interactive 3D version.
+> My repositories, connected by shared languages and topics. Regenerated daily.
 
 <div align="center">
 
-[![Knowledge Graph](./assets/graph_preview.gif)](https://indiguana.github.io/Indiguana/)
+![Knowledge Graph](./assets/graph_preview.gif)
 
 </div>
 
