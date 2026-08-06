@@ -44,16 +44,18 @@
 
 ### GitHub Stats
 
+> **Note:** Stats below reflect public repos only. Hundreds of additional commits, PRs, and code reviews from my Summer 2026 SWE internship are in a private org repo behind SSO and aren't counted here.
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Indiguana&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Indiguana&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="170" />
 <img src="https://streak-stats.demolab.com?user=Indiguana&theme=github-dark-blue&hide_border=true&background=0d1117" height="170" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indiguana&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="150" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Indiguana&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="150" />
 
 </div>
 
@@ -63,7 +65,7 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Indiguana&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/Indiguana)
+[![Trophies](https://github-trophies.vercel.app/?username=Indiguana&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/Indiguana)
 
 </div>
 
