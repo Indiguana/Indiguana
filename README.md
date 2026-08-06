@@ -15,18 +15,34 @@
 
 ### Tech Stack
 
-<div align="center">
+**Languages**
 
 ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-178600?style=flat&logo=csharp&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Astro](https://img.shields.io/badge/-Astro-FF5A03?style=flat&logo=astro&logoColor=white)
-![YOLOv3](https://img.shields.io/badge/-YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-</div>
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
+![Darknet](https://img.shields.io/badge/-Darknet-333333?style=flat&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Frontend & Backend**
+
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Go Dev](https://img.shields.io/badge/-Go%20Dev-00ADD8?style=flat&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-244c5a?style=flat&logo=google&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+
+**Data**
+
+![Neo4j](https://img.shields.io/badge/-Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
+![Graphify](https://img.shields.io/badge/-Graphify-6C3483?style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ---
 
