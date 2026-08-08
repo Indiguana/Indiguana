@@ -38,7 +38,7 @@
       "stars": 0,
       "url": "https://github.com/Indiguana/indiguana.github.io",
       "topics": [],
-      "val": 7.9421489103438585
+      "val": 10.243415848887908
     },
     {
       "id": "kzk265Product",
@@ -71,6 +71,16 @@
       "val": 6.400616725110652
     },
     {
+      "id": "otcfm-VoiceClone",
+      "language": "Jupyter Notebook",
+      "color": "#DA5B0B",
+      "description": "Voice cloning for laryngectomy patients using Matcha-TTS with OT-CFM (2023-2024 independent study project, restored from poster/report)",
+      "stars": 0,
+      "url": "https://github.com/Indiguana/otcfm-VoiceClone",
+      "topics": [],
+      "val": 4.027268042466618
+    },
+    {
       "id": "USACO",
       "language": "Python",
       "color": "#3572A5",
@@ -82,6 +92,12 @@
     }
   ],
   "links": [
+    {
+      "source": "ComputerVision-Calorie-Tracker",
+      "target": "otcfm-VoiceClone",
+      "weight": 1,
+      "label": "Jupyter Notebook"
+    },
     {
       "source": "ComputerVision-Drone-Debris-Detector",
       "target": "kzk265Product",
