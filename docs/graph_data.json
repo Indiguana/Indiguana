@@ -21,6 +21,16 @@
       "val": 12
     },
     {
+      "id": "g1-manipulation",
+      "language": "Python",
+      "color": "#3572A5",
+      "description": "Language-conditioned pick-and-place for a Unitree G1 humanoid in MuJoCo. Built from scratch on a laptop: custom gripper, measured workspace, closed-loop IK, and a LeRobot dataset.",
+      "stars": 0,
+      "url": "https://github.com/Indiguana/g1-manipulation",
+      "topics": [],
+      "val": 12
+    },
+    {
       "id": "Group5_IA-To_Do_List",
       "language": "C#",
       "color": "#178600",
@@ -38,7 +48,7 @@
       "stars": 0,
       "url": "https://github.com/Indiguana/indiguana.github.io",
       "topics": [],
-      "val": 10.531635030619835
+      "val": 10.548018691158143
     },
     {
       "id": "kzk265Product",
@@ -110,6 +120,12 @@
     },
     {
       "source": "ComputerVision-Drone-Debris-Detector",
+      "target": "g1-manipulation",
+      "weight": 1,
+      "label": "Python"
+    },
+    {
+      "source": "ComputerVision-Drone-Debris-Detector",
       "target": "kzk265Product",
       "weight": 1,
       "label": "Python"
@@ -122,6 +138,24 @@
     },
     {
       "source": "ComputerVision-Drone-Debris-Detector",
+      "target": "USACO",
+      "weight": 1,
+      "label": "Python"
+    },
+    {
+      "source": "g1-manipulation",
+      "target": "kzk265Product",
+      "weight": 1,
+      "label": "Python"
+    },
+    {
+      "source": "g1-manipulation",
+      "target": "LLM_weakness",
+      "weight": 1,
+      "label": "Python"
+    },
+    {
+      "source": "g1-manipulation",
       "target": "USACO",
       "weight": 1,
       "label": "Python"
