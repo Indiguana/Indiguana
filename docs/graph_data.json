@@ -1,6 +1,16 @@
 {
   "nodes": [
     {
+      "id": "07280-guide",
+      "language": "HTML",
+      "color": "#e34c26",
+      "description": "Study guide for CMU 07-280 (Intro to AI & ML), updated through the semester",
+      "stars": 0,
+      "url": "https://github.com/Indiguana/07280-guide",
+      "topics": [],
+      "val": 7.897371876554172
+    },
+    {
       "id": "ComputerVision-Calorie-Tracker",
       "language": "Jupyter Notebook",
       "color": "#DA5B0B",
@@ -48,7 +58,7 @@
       "stars": 0,
       "url": "https://github.com/Indiguana/indiguana.github.io",
       "topics": [],
-      "val": 11.195974347056788
+      "val": 11.196939982413728
     },
     {
       "id": "kzk265Product",
@@ -112,6 +122,12 @@
     }
   ],
   "links": [
+    {
+      "source": "07280-guide",
+      "target": "indiguana.github.io",
+      "weight": 1,
+      "label": "HTML"
+    },
     {
       "source": "ComputerVision-Calorie-Tracker",
       "target": "otcfm-VoiceClone",
